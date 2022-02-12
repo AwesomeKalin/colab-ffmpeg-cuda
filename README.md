@@ -1,9 +1,8 @@
-# THIS IS PROJECT IS NOT MAINTAINED ANYMORE. FEEL FREE TO FORK AND MAKE CHANGES TO IT. ORIGINAL PROJECT: https://github.com/markus-perl/ffmpeg-build-script
 # colab-ffmpeg-cuda
 
 FFmpeg build with CUDA support for Ubuntu (especially for Google Colab) with pre-built required binaries.
 
-<a href="https://colab.research.google.com/github/rokibulislaam/colab-ffmpeg-cuda/blob/main/colab_ffmpeg_cuda.ipynb">
+<a href="https://colab.research.google.com/github/AwesomeKalin/colab-ffmpeg-cuda/blob/main/colab_ffmpeg_cuda.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
